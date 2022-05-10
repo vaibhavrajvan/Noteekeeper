@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,700);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "quicksand";
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+  /* font-weight: lighter; */
+}
